@@ -1,3 +1,7 @@
+Here are my notes about how to use react with redux, the notes were taken from this tutorial: https://daveceddia.com/redux-tutorial/  
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
